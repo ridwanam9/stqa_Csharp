@@ -177,7 +177,9 @@ namespace Exercisepabd_databinding
         }
 
         #endregion
-
+        /*
+         Code dibawah menghasilkan output berupa form login username dan password
+         */
         private System.Windows.Forms.TextBox textfBox_nama;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label_username;

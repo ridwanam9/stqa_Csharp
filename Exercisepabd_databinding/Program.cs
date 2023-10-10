@@ -14,6 +14,9 @@ namespace Exercisepabd_databinding
         [STAThread]
         static void Main()
         {
+            /*
+             Code dibawah jika di-run akan menjalankan projectnya
+             */
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
